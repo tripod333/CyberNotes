@@ -1,1 +1,5 @@
-
+tshark -h: help
+tshark -D: list available sniffing interfaces 
+tshark -v: version info 
+tshark -i interfacename/number: choose interface ( or specify number)  
+tshark: no parameter (sniff traffic like tcpdump) 
