@@ -1,2 +1,7 @@
-# 1st:
-`test`
+-zeek: NSM (network security monitoring) tool and IDS framework
+-logs located in: /opt/zeek/logs if you run zeek as a service
+-run as service aka ZeekContol module: zeekctl (start/status/stop)
+-r: read
+-C: ignore checksum errors
+-v: version info
+-Zeek logs: Network, Files, NetControl, Detection, Network Observations, Misc, Zeek
